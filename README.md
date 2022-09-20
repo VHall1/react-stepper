@@ -5,7 +5,7 @@ Well-designed stepper component for react
 ```
 npm install react-stepper-horizontal --save
 ```
-Then just add `import Stepper from 'react-stepper-horizontal';` into your file.
+Then just add `import Stepper from 'react-stepper';` into your file.
 
 ## Screenshot
 <img src="https://raw.githubusercontent.com/mu29/react-stepper/master/example/example.png" width="600" />
